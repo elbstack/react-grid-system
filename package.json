@@ -1,5 +1,5 @@
 {
-  "name": "react-grid-system",
+  "name": "@elbstack/react-grid-system",
   "version": "4.1.7",
   "description": "A powerful Bootstrap-like responsive grid system for React.",
   "main": "./build/index.js",
